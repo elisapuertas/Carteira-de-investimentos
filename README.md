@@ -97,12 +97,16 @@ Gráficos e compartivos estão disponíveis no arquivo "BIMaster_carteira de inv
 
 O cálculo da carteira ótima foi realizado com base nos valores do índice sharp de 2023 para os fundos da amostra.
 As rentabilidades passadas foram apenas carregadas da base original para comparação.
-Podemos observar que a rentabilidade da carteira ótima foi similar à da carteira manual.
-Isto se deu, pois os valores de rentabilidade dos fundos escolhidos é muito próximo e, por isso, o fator de ponderação entre as carteiras dos cenários não fez muito diferença.
-**No entanto, podemos ver que a carteira do cenário 2 tem um índice sharp bem maior (11,85), representando a solução ótima em relação à rentabilidade X volatilidade, que era o que buscávamos.**
-Usamos como benchmark o CDI e em 2023 a carteira supera o CDI.
-**Carteira ótima: cenário 2**
 
+Podemos observar que a rentabilidade da carteira ótima foi similar à da carteira manual.
+
+Isto se deu, pois os valores de rentabilidade dos fundos escolhidos é muito próximo e, por isso, o fator de ponderação entre as carteiras dos cenários não fez muito diferença.
+
+**No entanto, podemos ver que a carteira do cenário 2 tem um índice sharp bem maior (11,85), representando a solução ótima em relação à rentabilidade X volatilidade, que era o que buscávamos.**
+
+Usamos como benchmark o CDI e em 2023 a carteira supera o CDI.
+
+**Carteira ótima: cenário 2**
 	
 ---
 
