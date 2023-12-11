@@ -91,6 +91,7 @@ Comparação com benchmark (CDI) :
 
 CDI - 11,79% X Rentab : 13,99
 
+Gráficos e compartivos estão disponíveis no arquivo "BIMaster_carteira de investimentos.pdf"
 
 ### 4. Conclusões
 
